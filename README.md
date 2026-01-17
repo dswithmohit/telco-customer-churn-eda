@@ -19,9 +19,5 @@ Understand customer behavior and identify key factors that lead to churn using v
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
 
-## Status
-📊 EDA completed  
-❌ No ML model yet (Still learning)
-
 ## Author
-Mohit – B.Tech CSE (Data Science) at MIT Bengaluru
+Mohit
